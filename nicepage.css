@@ -46221,7 +46221,7 @@ a.u-link.u-text-hover-color-var:hover {
 .u-header .u-image-1 {
   width: 175px;
   height: 175px;
-  margin: 0 auto 0 0;
+  margin: 0 auto 0 -39px;
 }
 
 .u-header .u-logo-image-1 {
@@ -46232,26 +46232,24 @@ a.u-link.u-text-hover-color-var:hover {
   .u-header .u-image-1 {
     margin-top: -65px;
     margin-bottom: -8px;
-    margin-left: 70px;
+    margin-left: 170px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-image-1 {
     margin-top: -69px;
     margin-bottom: 8px;
-    margin-left: 180px;
+    margin-left: 390px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-image-1 {
-    margin-top: -65px;
-    margin-bottom: -8px;
-    margin-left: 270px;
+    margin: -65px 395px -8px auto;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-image-1 {
-    margin-left: 370px;
+    margin-right: 195px;
   }
 }
  .u-footer {

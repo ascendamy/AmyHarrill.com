@@ -1,6 +1,6 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/Amy_Harrill_bg1_2000_1125.webp');
-  background-position: 50% 50%, 1.69% 50%;
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/Amy_Harrill_BG9_2000_1336.webp');
+  background-position: 50% 50%;
   background-size: cover, cover;
 }
 
@@ -10,16 +10,17 @@
 
 .u-section-1 .u-text-1 {
   font-size: 1rem;
-  margin: 387px auto 0;
+  width: 285px;
+  margin: 357px auto 0;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 2.25rem;
-  margin: 33px 109px 0;
+  margin: 18px 109px 0;
 }
 
 .u-section-1 .u-text-3 {
-  margin: 17px 0 0;
+  margin: 34px 0 0;
 }
 
 .u-section-1 .u-group-1 {
@@ -27,7 +28,7 @@
   width: 800px;
   min-height: 231px;
   height: auto;
-  margin: 78px auto 60px;
+  margin: 117px auto 60px;
 }
 
 .u-section-1 .u-container-layout-1 {

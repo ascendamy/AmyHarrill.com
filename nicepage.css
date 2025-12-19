@@ -46219,9 +46219,9 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-image-1 {
-  width: 175px;
-  height: 175px;
-  margin: 0 auto 0 -39px;
+  width: 152px;
+  height: 152px;
+  margin: 12px auto 12px 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -46230,6 +46230,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
+    width: 152px;
     margin-top: -65px;
     margin-bottom: -8px;
     margin-left: 170px;
